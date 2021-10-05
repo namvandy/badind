@@ -1,3 +1,3 @@
 # badind project
 
-1. Nothing yet
+__해커톤 및 기업프로젝트 인원 구성조건 및 인원제한으로 인한 중단__
